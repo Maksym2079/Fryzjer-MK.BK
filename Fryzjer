@@ -1,0 +1,7 @@
+cd D/project-fryzjer
+git init
+git add .
+git commit -m "Początkowy commit"
+git branch -M main
+git remote add origin https://github.com/Maksym2079/Fryzjer-MK.BK.git
+git push -u origin main
