@@ -1,4 +1,5 @@
-cd D/project-fryzjer
+D:
+cd project-fryzjer
 git init
 git add .
 git commit -m "Początkowy commit"
